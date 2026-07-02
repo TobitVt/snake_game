@@ -1,4 +1,4 @@
-#Snake Game
+## Snake Game
 
 A classic Snake game built in Python using the built-in `turtle` graphics library. The game recreates the traditional Snake experience with smooth movement, randomly spawning food, score tracking, snake growth, collision detection, and persistent high scores.
 
